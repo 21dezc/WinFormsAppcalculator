@@ -1,0 +1,16 @@
+C:\all code\new t2\WinFormsAppcalculator\bin\Debug\net8.0-windows\WinFormsAppcalculator.exe
+C:\all code\new t2\WinFormsAppcalculator\bin\Debug\net8.0-windows\WinFormsAppcalculator.deps.json
+C:\all code\new t2\WinFormsAppcalculator\bin\Debug\net8.0-windows\WinFormsAppcalculator.runtimeconfig.json
+C:\all code\new t2\WinFormsAppcalculator\bin\Debug\net8.0-windows\WinFormsAppcalculator.dll
+C:\all code\new t2\WinFormsAppcalculator\bin\Debug\net8.0-windows\WinFormsAppcalculator.pdb
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.Form1.resources
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.csproj.GenerateResource.cache
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.AssemblyInfoInputs.cache
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.AssemblyInfo.cs
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.csproj.CoreCompileInputs.cache
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.dll
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\refint\WinFormsAppcalculator.dll
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.pdb
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\WinFormsAppcalculator.genruntimeconfig.cache
+C:\all code\new t2\WinFormsAppcalculator\obj\Debug\net8.0-windows\ref\WinFormsAppcalculator.dll
